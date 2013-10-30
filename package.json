@@ -1,0 +1,30 @@
+{
+  "name": "node-raytracer",
+  "version": "0.0.0",
+  "description": "a raytracer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/node-raytracer.git"
+  },
+  "keywords": [
+    "raytracer",
+    "ray",
+    "tracer",
+    "3d",
+    "rendering",
+    "graphics"
+  ],
+  "author": "Tom MacWright",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tmcw/node-raytracer/issues"
+  },
+  "dependencies": {
+    "canvas": "~1.1.1",
+    "leftpad": "0.0.0"
+  }
+}
